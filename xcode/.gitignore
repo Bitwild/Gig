@@ -1,3 +1,7 @@
+# Keep .gitkeep files
+
+!.gitkeep
+
 # Xcode
 
 /*.xcodeproj/project.xcworkspace
@@ -16,7 +20,7 @@
 
 # Carthage
 
-/dependency/Carthage
+/dependency/Carthage/*
 
 # Fastlane
 
