@@ -1,0 +1,36 @@
+# Xcode
+
+/*.xcodeproj/project.xcworkspace
+/*.xcodeproj/**/xcuserdata
+/*.xcworkspace/**/xcuserdata
+/*.playground/**/xcuserdata
+
+# AppCode
+
+/.idea/*.iml
+/.idea/modules.xml
+/.idea/runConfigurations
+/.idea/tasks.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
+
+# Carthage
+
+/dependency/Carthage
+
+# Fastlane
+
+/build/fastlane/report.xml
+/build/fastlane/test_output
+/build/fastlane/Gemfile.lock
+/build/fastlane/README.md
+/build/fastlane/.idea
+/build/Preview.html
+
+# Product
+
+/product/*
+
+# Artifacts
+
+/build.log
