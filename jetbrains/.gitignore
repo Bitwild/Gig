@@ -1,0 +1,9 @@
+# Reference: https://github.com/github/gitignore/blob/master/Global/JetBrains.gitignore
+
+# IDE
+
+/.idea/*.iml
+/.idea/modules.xml
+/.idea/tasks.xml
+/.idea/vcs.xml
+/.idea/workspace.xml
