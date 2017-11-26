@@ -27,7 +27,6 @@
 
 /build/fastlane/report.xml
 /build/fastlane/test_output
-/build/fastlane/Gemfile.lock
 /build/fastlane/README.md
 /build/fastlane/.idea
 /build/Preview.html
