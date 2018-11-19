@@ -29,6 +29,7 @@
 /build/fastlane/test_output
 /build/fastlane/README.md
 /build/fastlane/.idea
+/build/fastlane/.tool-versions
 /build/Preview.html
 
 # Product
