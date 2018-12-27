@@ -24,12 +24,13 @@
 /dependency/Pods/*
 
 # Fastlane
+# .tool-versions is artifact of using RubyMine & asdf: https://youtrack.jetbrains.com/issue/RUBY-21850
 
 /build/fastlane/report.xml
 /build/fastlane/test_output
 /build/fastlane/README.md
 /build/fastlane/.idea
-/build/fastlane/.tool-versions
+/build/fastlane/**/.tool-versions
 /build/Preview.html
 
 # Product
