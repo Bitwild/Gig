@@ -16,6 +16,9 @@
 /.idea/tasks.xml
 /.idea/vcs.xml
 /.idea/workspace.xml
+/.idea/dataSources
+/.idea/dataSources.ids
+/.idea/dataSources.local.xml
 
 # Carthage
 
